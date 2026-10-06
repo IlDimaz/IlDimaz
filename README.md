@@ -4,17 +4,33 @@
 
 I'm a Computer Engineering student at **UniMORE**, interested in software design and development, and a big fan of the **"automate the boring stuff"** philosophy.
 
-## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square\&logo=mathworks\&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square\&logo=stmicroelectronics\&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square\&logo=raspberrypi\&logoColor=white)
+🛠️ Tech Stack
+
+💻 Languages
+
+"C" (https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+"C++" (https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+"SQL" (https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+🌐 Web & Frameworks
+
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+"Django" (https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+🔧 Embedded & Hardware
+
+"STM32" (https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+"Raspberry Pi" (https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+🧰 Tools & Software
+
+"MATLAB" (https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+"RobotStudio" (https://img.shields.io/badge/RobotStudio-FF0000?style=flat-square&logo=abb&logoColor=white)
+"SolidWorks" (https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white) 
 
 ## 🔧 Projects
 
